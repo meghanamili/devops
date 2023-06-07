@@ -1,0 +1,6 @@
+cat hello
+cat demo1
+cat > demo1
+hello
+cat demo1
+cd ~
